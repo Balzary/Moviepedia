@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moviepedia</string>
+    <string name="main_activity_title">Catálogo de filmes</string>
+    <string name="main_activity_subtitle">Em Cartaz</string>
+    <string name="titulo_do_filme">Título do Filme</string>
+    <string name="poster_do_filme">poster do filme</string>
+    <string name="genero_do_filme">gênero do filme</string>
+    <string name="data_de_lancamento">Data de lançamento</string>
+    <string name="sinopse">Sinopse não encontrada</string>
+</resources>
